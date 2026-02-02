@@ -41,6 +41,25 @@ event-management-system/
 
 
 
+    Ayojan Pro (आयोजन प्रो) is a complete, full-stack Event Management System developed by Saishan Gimire. It provides a secure and organized platform for managing events and their attendees through a clean, modern web interface.
+
+Key features include:
+
+Role-Based Security: A strict separation between Administrators, who have full control over all data, and regular Users, who have view-only access.
+
+Full CRUD Functionality: Administrators can create, read, update, and delete events and attendee records.
+
+Admin Dashboard: A central hub for administrators that displays key statistics like total events and recent registrations.
+
+Public Landing Page: A professional, public-facing page that details the project's features and includes an integrated login system.
+
+Modern Tech Stack: Built with raw PHP and MySQL for the backend, and a responsive, mobile-friendly frontend styled with modern CSS and enhanced with JavaScript for features like dark mode and live search.
+
+
+
+
+
+
     Username: admin
 
 Password: password123
